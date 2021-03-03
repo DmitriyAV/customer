@@ -1,0 +1,45 @@
+body {
+  background-color: antiquewhite;
+}
+#web-form {
+  padding-left: 150px;
+  padding-top: 50px;
+  padding-right: 150px;
+}
+#name{
+  border: none;
+  border-bottom: 1px solid #e95420;
+  background-color: transparent;
+  color: inherit;
+  outline: none;
+  width: 165px;
+}
+#category {
+  border: none;
+  border-bottom: 1px solid #e95420;
+  background-color: transparent;
+  color: inherit;
+  outline: none;
+  width: 165px;
+}
+#phone {
+  border: none;
+  border-bottom: 1px solid #e95420;
+  background-color: transparent;
+  color: inherit;
+  outline: none;
+  width: 165px;
+}
+#btn-primary{
+  width:165px;
+  float: right;
+}
+.input-error {
+  box-shadow: 0 0 1px red;
+}
+.form-success {
+  color:#06ff00;
+}
+.form-error {
+  color: #ff180c;
+}
